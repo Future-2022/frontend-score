@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.269e8cd6.chunk.css",
+    "main.js": "/static/js/main.3e9199f6.chunk.js",
+    "main.js.map": "/static/js/main.3e9199f6.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.25ac3d9b.js",
+    "runtime-main.js.map": "/static/js/runtime-main.25ac3d9b.js.map",
+    "static/css/2.fbbbc09e.chunk.css": "/static/css/2.fbbbc09e.chunk.css",
+    "static/js/2.d2908363.chunk.js": "/static/js/2.d2908363.chunk.js",
+    "static/js/2.d2908363.chunk.js.map": "/static/js/2.d2908363.chunk.js.map",
+    "static/js/3.ba6d4cea.chunk.js": "/static/js/3.ba6d4cea.chunk.js",
+    "static/js/3.ba6d4cea.chunk.js.map": "/static/js/3.ba6d4cea.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.fbbbc09e.chunk.css.map": "/static/css/2.fbbbc09e.chunk.css.map",
+    "static/css/main.269e8cd6.chunk.css.map": "/static/css/main.269e8cd6.chunk.css.map",
+    "static/js/2.d2908363.chunk.js.LICENSE.txt": "/static/js/2.d2908363.chunk.js.LICENSE.txt",
+    "static/media/font.css": "/static/media/Spartan-SemiBold.88d40279.ttf",
+    "static/media/brands.css": "/static/media/fa-brands-400.c90f83fd.ttf",
+    "static/media/solid.css": "/static/media/fa-solid-900.de78ce19.ttf",
+    "static/media/index.css": "/static/media/neo-latina-demo-FFP.83d103c0.ttf",
+    "static/media/notifications.css": "/static/media/notification.c5d9251e.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.25ac3d9b.js",
+    "static/css/2.fbbbc09e.chunk.css",
+    "static/js/2.d2908363.chunk.js",
+    "static/css/main.269e8cd6.chunk.css",
+    "static/js/main.3e9199f6.chunk.js"
+  ]
+}
