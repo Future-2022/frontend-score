@@ -1,0 +1,70 @@
+.background{
+    background-color: rgb(199, 199, 199);
+    color: rgb(32, 26, 42);
+    height: 100vh;
+    padding: 12px;
+}
+.font-weight-bold {
+    font-weight: bold;
+}
+.sub-title {
+    color: rgb(58, 58, 58);
+}
+.w-150 {
+    width: 150px;
+}
+.red-player {
+    background-color: red;
+    width: 30px;
+    height: 30px;
+}
+.yellow-player {
+    background-color: yellow;
+    width: 30px;
+    height: 30px;
+}
+.black-player {
+    background-color: black;
+    width: 30px;
+    height: 30px;
+}
+.white-player {
+    background-color: white;
+    width: 30px;
+    height: 30px;
+}
+.green-player {
+    background-color: green;
+    width: 30px;
+    height: 30px;
+}
+
+.red-line {
+    background-color: red;
+    height: 20px;
+    width: 100%;
+}
+.yellow-line {
+    background-color: yellow;
+    height: 20px;
+    width: 100%;
+}
+.black-line {
+    background-color: black;
+    height: 20px;
+    width: 100%;
+}
+.white-line {
+    background-color: white;
+    height: 20px;
+    width: 100%;
+}
+.green-line {
+    background-color: green;
+    height: 20px;
+    width: 100%;
+}
+
+h6 {
+    margin-bottom: 2px;
+}

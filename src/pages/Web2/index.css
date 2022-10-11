@@ -1,0 +1,128 @@
+@font-face {
+    font-family: 'basicfont';
+    src: url('../../font/neo-latina-demo-FFP.ttf');
+}
+.background-green{
+    background-color: rgb(0, 255, 21);
+    color: white;
+    height: 100vh;
+    padding: 12px;
+}
+.background-grey {
+    background-color: rgb(92, 92, 92);
+}
+.red-avatar {
+    background-color: red;
+    width: 30px;
+    height: 35px;
+}
+.yellow-avatar {
+    background-color: yellow;
+    width: 30px;
+    height: 35px;
+}
+.black-avatar {
+    background-color: black;
+    width: 30px;
+    height: 35px;
+}
+.white-avatar {
+    background-color: white;
+    width: 30px;
+    height: 35px;
+}
+.green-avatar {
+    background-color: green;
+    width: 30px;
+    height: 35px;
+}
+
+h6 {
+    margin-bottom: 2px;
+}
+p {
+    margin-bottom: 1px;
+}
+.noti-title {
+    font-size: 13px;
+    text-align: right;
+}
+.pane-1 {
+    width: 320px;
+    font-weight: 700;
+    text-align: center;
+}
+/* .panel-2 {
+    width: 100px;
+    font-weight: 700;
+    padding: 5px;
+    text-align: center;
+    min-height: 100px;
+    height: auto;
+    padding-top: 0;
+} */
+/* .panel-3 {
+    width: 70px;
+    font-weight: 700;
+    padding: 5px;
+    text-align: center;
+    display: inline-block;
+    padding-top: 0;
+} */
+.background-dark-grey {
+    background-color: rgb(46, 46, 46);
+}
+.w-title {
+    font-size: 12px;
+    margin-bottom: 0;
+}
+* {
+    font-family: "basicfont";
+}
+span, h6 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.main-layout {
+
+}
+.table {
+    color: white;
+}
+.table>:not(caption)>*>* {
+    padding: 0.2rem 0.5rem;
+}
+.table-dark {
+    border-color: #aaaaaa;
+}
+.panel-first {
+    font-size: 17px;
+}
+td {
+    height: 34px;
+}
+.w-title > td {
+    height: 15px;
+}
+.other-layout {
+    width: 360px;
+}
+.first-layout {
+     width: 360px;   
+}
+@media (max-width: 550px) {
+    .main-layout {
+        justify-content: center;
+    }
+    .panel-2 {
+        width: 200px;
+    }
+    .panel-3 {
+        width: 130px;
+    }
+    .other-layout {
+        justify-content: space-between;
+    }
+    .first-layout {
+
+    }
+}
